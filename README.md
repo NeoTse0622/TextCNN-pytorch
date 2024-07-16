@@ -69,7 +69,7 @@ num_workers：数据加载时的线程数量。
 从data_validation.csv中获取每一类新闻的分类精度。
 
 ***********
-##Please Cite This Work~
+## Please Cite This Work~
 
 ```
 @NeoTse0622
