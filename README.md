@@ -64,10 +64,12 @@ num_workers：数据加载时的线程数量。
 ## 预测与评估
 （1）预测
 在dataset文件夹中放置需要预测的测试集data_test.csv，获得label预测列。
+
 （2）评估
 从data_validation.csv中获取每一类新闻的分类精度。
 
 ##Please Cite This Work~
+
 ```
 @NeoTse0622
 Update time:2024/7/16
